@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866281025944",
+    "firebase_url": "https://walktoearn-3e3a8.firebaseio.com",
+    "project_id": "walktoearn-3e3a8",
+    "storage_bucket": "walktoearn-3e3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866281025944:android:155214f458ec6f59",
+        "android_client_info": {
+          "package_name": "com.app.walk2earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866281025944-11bklo1lv0a220vahc1mvoe8isdg6f0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.walk2earn",
+            "certificate_hash": "af8e1b6023b2ea7a4a079811cebff1941d8d08e6"
+          }
+        },
+        {
+          "client_id": "866281025944-8amm70bhfc63ru59ct3op0pe75raq21h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8XyUs5f5QeKPkrUBMGr0wUYjGcVT5rRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866281025944-8amm70bhfc63ru59ct3op0pe75raq21h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
