@@ -28,16 +28,16 @@ TextView amount,date,startingTime,endingTime;
         endingTime=findViewById(R.id.et);
 
         if(result<20.0){
-        amount.setText("Rs 0");
+        amount.setText("AUD 0");
         }
         else if(result>20.0 && result<40.0){
-            amount.setText("Rs 5");
+            amount.setText("AUD 5");
         }
         else if(result>40.0 && result<100.0){
-            amount.setText("Rs 15");
+            amount.setText("AUD 15");
         }
         else if(result>100.0){
-            amount.setText("Rs 25");
+            amount.setText("AUD 25");
         }
 
 
